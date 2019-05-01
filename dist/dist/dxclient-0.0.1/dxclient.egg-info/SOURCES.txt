@@ -1,0 +1,61 @@
+MANIFEST.in
+README.md
+package.py
+requirements.txt
+setup.py
+dxclient/DxOpenClient.py
+dxclient/SupportClasses.py
+dxclient/__init__.py
+dxclient/connect.py
+dxclient/constants.py
+dxclient/dxlxml.py
+dxclient - Copy/DxOpenClient.py
+dxclient - Copy/FlyingTester.py
+dxclient - Copy/SetEnvironment.py
+dxclient - Copy/SupportClasses.py
+dxclient - Copy/__init__.py
+dxclient - Copy/connect.py
+dxclient - Copy/constants.py
+dxclient - Copy/dxlxml.py
+dxclient - Copy/Query/DxlAccountPerformanceQuery.py
+dxclient - Copy/Query/DxlBaseQuery.py
+dxclient - Copy/Query/DxlBenchmarkQuery.py
+dxclient - Copy/Query/DxlClientQuery.py
+dxclient - Copy/Query/DxlClientVarianceQuery.py
+dxclient - Copy/Query/DxlDIMEQuery.py
+dxclient - Copy/Query/DxlDataQuery.py
+dxclient - Copy/Query/DxlDividendQuery.py
+dxclient - Copy/Query/DxlIMQuery.py
+dxclient - Copy/Query/DxlIntradayQuery.py
+dxclient - Copy/Query/DxlPendingQuery.py
+dxclient - Copy/Query/DxlPublicQuery.py
+dxclient - Copy/Query/DxlRatesQuery.py
+dxclient - Copy/Query/DxlRepoQuery.py
+dxclient - Copy/Query/DxlSFQuery.py
+dxclient - Copy/Query/DxlScreenQuery.py
+dxclient - Copy/Query/DxlSearchQuery.py
+dxclient - Copy/Query/DxlTriPartyTradingQuery.py
+dxclient - Copy/Query/__init__.py
+dxclient.egg-info/PKG-INFO
+dxclient.egg-info/SOURCES.txt
+dxclient.egg-info/dependency_links.txt
+dxclient.egg-info/top_level.txt
+dxclient/Query/DxlAccountPerformanceQuery.py
+dxclient/Query/DxlBaseQuery.py
+dxclient/Query/DxlBenchmarkQuery.py
+dxclient/Query/DxlClientQuery.py
+dxclient/Query/DxlClientVarianceQuery.py
+dxclient/Query/DxlDIMEQuery.py
+dxclient/Query/DxlDataQuery.py
+dxclient/Query/DxlDividendQuery.py
+dxclient/Query/DxlIMQuery.py
+dxclient/Query/DxlIntradayQuery.py
+dxclient/Query/DxlPendingQuery.py
+dxclient/Query/DxlPublicQuery.py
+dxclient/Query/DxlRatesQuery.py
+dxclient/Query/DxlRepoQuery.py
+dxclient/Query/DxlSFQuery.py
+dxclient/Query/DxlScreenQuery.py
+dxclient/Query/DxlSearchQuery.py
+dxclient/Query/DxlTriPartyTradingQuery.py
+dxclient/Query/__init__.py
